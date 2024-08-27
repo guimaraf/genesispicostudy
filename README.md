@@ -28,7 +28,6 @@ Pins 7 and 8 (GND) -> GND of the Raspberry Pi Pico
 
 # What is MicroPython?
 MicroPython is a compact and efficient version of Python 3, which includes a subset of the standard library and is optimized to run on microcontrollers and environments with limited resources.”
-
 https://micropython.org/ </br>
 
 Download link for Pi Pico </br>
@@ -43,6 +42,7 @@ machine
 time
 
 Both are native to MicroPython
+![Alt text](/img/pipico.png?raw=true "Sega Genesis 6 buttons")
 
 ![Alt text](/img/genesis6pad.png?raw=true "Sega Genesis 6 buttons")
 </br>
