@@ -45,9 +45,9 @@ Both are native to MicroPython
 </br>
 
 # Materials used in the project
-- Db9 Male Connector With Terminal Block
 - Raspberry pi pico development board with soldered pins
 - Sega Mega Drive (Genesis) controller
+- Db9 Male Connector With Terminal Block
 - Jumper Cable 20Cm Male X Female
 </br>
 
