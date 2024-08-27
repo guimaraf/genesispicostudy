@@ -54,4 +54,9 @@ Both are native to MicroPython
 ![Alt text](/img/pipico.png?raw=true "Sega Genesis 6 buttons")
 
 ![Alt text](/img/genesis6pad.png?raw=true "Sega Genesis 6 buttons")
+
+![Alt text](/img/db9femaleconnector.png?raw=true "Sega Genesis 6 buttons")
+
+![Alt text](/img/pipicopins.png?raw=true "Sega Genesis 6 buttons")
+
 </br>
