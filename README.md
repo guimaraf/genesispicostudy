@@ -44,6 +44,13 @@ time
 Both are native to MicroPython
 </br>
 
+# Materials used in the project
+- Db9 Male Connector With Terminal Block
+- Raspberry pi pico development board with soldered pins
+- Sega Mega Drive (Genesis) controller
+- Jumper Cable 20Cm Male X Female
+</br>
+
 ![Alt text](/img/pipico.png?raw=true "Sega Genesis 6 buttons")
 
 ![Alt text](/img/genesis6pad.png?raw=true "Sega Genesis 6 buttons")
