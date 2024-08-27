@@ -42,6 +42,8 @@ machine
 time
 
 Both are native to MicroPython
+</br>
+
 ![Alt text](/img/pipico.png?raw=true "Sega Genesis 6 buttons")
 
 ![Alt text](/img/genesis6pad.png?raw=true "Sega Genesis 6 buttons")
