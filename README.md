@@ -1,4 +1,4 @@
-# genesispicostudy
+# Genesis Pico Study
 Project where I connect a Sega Genesis controller to a Pi Pico
 
 # Motivation
