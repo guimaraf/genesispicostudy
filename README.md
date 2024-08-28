@@ -6,7 +6,7 @@ I'm a programmer and game developer, with a few titles released on the market. R
 
 I also enjoy working on small electronics projects. Recently, I started a new project, finally putting my plans into practice.</br>
 
-My website with the projects</br>
+My personal website with the games I've released on the market, PC and Consoles </br>
 https://guimaraf.github.io/projects.html
 
 # Description
@@ -30,7 +30,7 @@ Pins 7 and 8 (GND) -> GND of the Raspberry Pi Pico
 MicroPython is a compact and efficient version of Python 3, which includes a subset of the standard library and is optimized to run on microcontrollers and environments with limited resources.”
 https://micropython.org/ </br>
 
-Download link for Pi Pico </br>
+Download micropython for Pi Pico </br>
 https://micropython.org/download/RPI_PICO/
 
 # IDE Thonny
