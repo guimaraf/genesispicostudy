@@ -38,7 +38,7 @@ Thonny is a simple and user-friendly IDE, ideal for Python beginners. It facilit
 https://thonny.org/
 
 # Used libraries
-machine
+machine </br>
 time
 
 Both are native to MicroPython
