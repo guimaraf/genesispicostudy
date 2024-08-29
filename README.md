@@ -57,6 +57,6 @@ Both are native to MicroPython
 
 ![Alt text](/img/db9femaleconnector.png?raw=true "DB9 Female Connector")
 
-![Alt text](/img/pipicopins.jpeg?raw=true "Raspberry Pi Pico")
+![Alt text](/img/pipicopins.jpeg?raw=true "Raspberry Pi Pico Diagram")
 
 </br>
